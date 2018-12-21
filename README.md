@@ -1,13 +1,8 @@
 # URA-MARKET-COIN
 URA.market  is a decentralized trade and investment platform, created by Ethereum net. URA.market is controlled without human participation and by automated smart contracts with refusal from ownership activated function
 
-
-# Revolution 333 v2.0 Smart Contracts
-[![Coverage Status](https://coveralls.io/repos/github/Revolution333/333eth/badge.svg?branch=master)](https://coveralls.io/github/Revolution333/333eth/?branch=master)
-[![Build Status](https://travis-ci.org/Revolution333/333eth.svg?branch=master)](https://travis-ci.org/Revolution333/333eth)
-
 ## Details
-- Address: [0x215cE36e90B1b64e6fa2E358305177f8fe5DaF25](https://etherscan.io/address/0x215cE36e90B1b64e6fa2E358305177f8fe5DaF25)
+- Address: [](https://etherscan.io/address/)
 
 More details on [333eth.io](https://333eth.io/).
 
